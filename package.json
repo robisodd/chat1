@@ -1,0 +1,32 @@
+{
+    "author": "robisodd",
+    "dependencies": {},
+    "keywords": [],
+    "name": "websocket-chat",
+    "pebble": {
+        "displayName": "Websocket Chat",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "err_message": 4,
+            "message": 1,
+            "status": 0,
+            "system_message": 3,
+            "userkey": 2
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "35c7c3c9-12bf-44c1-9080-9fe850538ec4",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
